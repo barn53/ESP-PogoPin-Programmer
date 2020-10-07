@@ -29,6 +29,7 @@ fp-info-cache
 
 # Exported Fabrication files
 *.gbr
+*.gbrjob
 *.drl
 *.zip
 
