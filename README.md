@@ -1,2 +1,2 @@
-# kicad template repo
- A Template Repository With License and .gitignores for a kicad project
+# ESP Programmer with PogoPins
+- Used to program ESP-01, ESP-12E/F modules 
